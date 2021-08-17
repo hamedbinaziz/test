@@ -25,6 +25,8 @@ public class AppTest
      */
     public static Test suite()
     {
+        
+        System.out.println("Testing the recommit");
         return new TestSuite( AppTest.class );
     }
 
